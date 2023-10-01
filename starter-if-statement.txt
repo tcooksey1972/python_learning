@@ -1,0 +1,17 @@
+I wake up
+If I'm hungry   #conditions that evaluate T or F
+    I eat breakfast   #Action taken on true
+
+I leave my house
+if it's cloudy      #conditions that evaluate T or F
+    I bring an umbrella  #Action taken on true
+otherwise
+    I bring sunglasses  #Action taken on false
+
+I eat at a restaurant
+if I want meat
+    I order Steak
+otherwise if I want post
+    I order Spaghetti & meatballs
+otherwise
+    I order salad.

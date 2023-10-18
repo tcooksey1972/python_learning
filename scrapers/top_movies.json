@@ -1,0 +1,547 @@
+[
+    {
+        "title": "The Last of Us",
+        "rating": 8.8,
+        "votes": "462,463",
+        "director": "",
+        "actors": "Stars:Pedro Pascal,Bella Ramsey,Anna Torv,Gabriel Luna"
+    },
+    {
+        "title": "Oppenheimer",
+        "rating": 8.5,
+        "votes": "461,701",
+        "director": "Christopher Nolan",
+        "actors": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "title": "Barbie",
+        "rating": 7.1,
+        "votes": "358,526",
+        "director": "Greta Gerwig",
+        "actors": [
+            "Margot Robbie",
+            "Ryan Gosling",
+            "Issa Rae",
+            "Kate McKinnon"
+        ]
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "rating": 7.9,
+        "votes": "331,762",
+        "director": "James Gunn",
+        "actors": [
+            "Chris Pratt",
+            "Chukwudi Iwuji",
+            "Bradley Cooper",
+            "Pom Klementieff"
+        ]
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "rating": 7.8,
+        "votes": "286,744",
+        "director": "Chad Stahelski",
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "George Georgiou",
+            "Lance Reddick"
+        ]
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "rating": 8.7,
+        "votes": "277,177",
+        "director": "Joaquim Dos Santos,Kemp Powers,Justin K. Thompson",
+        "actors": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Brian Tyree Henry",
+            "Luna Lauren Velez"
+        ]
+    },
+    {
+        "title": " The Last of Us",
+        "rating": 8.1,
+        "votes": "222,384",
+        "director": "Peter Hoar",
+        "actors": [
+            "Pedro Pascal",
+            "Bella Ramsey",
+            "Anna Torv",
+            "Nick Offerman"
+        ]
+    },
+    {
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "rating": 6.1,
+        "votes": "207,585",
+        "director": "Peyton Reed",
+        "actors": [
+            "Paul Rudd",
+            "Evangeline Lilly",
+            "Michael Douglas",
+            "Michelle Pfeiffer"
+        ]
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "rating": 7.1,
+        "votes": "197,838",
+        "director": "Aaron Horvath,Michael Jelenic,Pierre Leduc,Fabien Polack",
+        "actors": [
+            "Chris Pratt",
+            "Anya Taylor-Joy",
+            "Charlie Day",
+            "Jack Black"
+        ]
+    },
+    {
+        "title": "Dungeons & Dragons: Honor Among Thieves",
+        "rating": 7.3,
+        "votes": "192,461",
+        "director": "John Francis Daley,Jonathan Goldstein",
+        "actors": [
+            "Chris Pine",
+            "Michelle Rodriguez",
+            "Regé-Jean Page",
+            "Justice Smith"
+        ]
+    },
+    {
+        "title": "The Flash",
+        "rating": 6.7,
+        "votes": "180,188",
+        "director": "Andy Muschietti",
+        "actors": [
+            "Ezra Miller",
+            "Michael Keaton",
+            "Sasha Calle",
+            "Michael Shannon"
+        ]
+    },
+    {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "rating": 7.9,
+        "votes": "160,648",
+        "director": "Christopher McQuarrie",
+        "actors": [
+            "Tom Cruise",
+            "Hayley Atwell",
+            "Ving Rhames",
+            "Simon Pegg"
+        ]
+    },
+    {
+        "title": "Pathaan",
+        "rating": 5.9,
+        "votes": "147,624",
+        "director": "Siddharth Anand",
+        "actors": [
+            "Shah Rukh Khan",
+            "Deepika Padukone",
+            "John Abraham",
+            "Dimple Kapadia"
+        ]
+    },
+    {
+        "title": "Air",
+        "rating": 7.4,
+        "votes": "146,594",
+        "director": "Ben Affleck",
+        "actors": [
+            "Matt Damon",
+            "Jason Bateman",
+            "Ben Affleck",
+            "Chris Messina"
+        ]
+    },
+    {
+        "title": "The Little Mermaid",
+        "rating": 7.2,
+        "votes": "138,383",
+        "director": "Rob Marshall",
+        "actors": [
+            "Halle Bailey",
+            "Jonah Hauer-King",
+            "Melissa McCarthy",
+            "Javier Bardem"
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Dial of Destiny",
+        "rating": 6.7,
+        "votes": "134,259",
+        "director": "James Mangold",
+        "actors": [
+            "Harrison Ford",
+            "Phoebe Waller-Bridge",
+            "Antonio Banderas",
+            "Karen Allen"
+        ]
+    },
+    {
+        "title": "The Covenant",
+        "rating": 7.5,
+        "votes": "131,092",
+        "director": "Guy Ritchie",
+        "actors": [
+            "Jake Gyllenhaal",
+            "Dar Salim",
+            "Sean Sagar",
+            "Jason Wong"
+        ]
+    },
+    {
+        "title": "Adipurush",
+        "rating": 3.4,
+        "votes": "130,392",
+        "director": "Om Raut",
+        "actors": [
+            "Kriti Sanon",
+            "Saif Ali Khan",
+            "Prabhas",
+            "Devdutta Nage"
+        ]
+    },
+    {
+        "title": "King the Land",
+        "rating": 4.5,
+        "votes": "130,177",
+        "director": "",
+        "actors": "Stars:Lee Jun-Ho,Im Yoon-ah,Go Won-Hee,Kim Ga-eun"
+    },
+    {
+        "title": "Extraction II",
+        "rating": 7.0,
+        "votes": "130,124",
+        "director": "Sam Hargrave",
+        "actors": [
+            "Chris Hemsworth",
+            "Golshifteh Farahani",
+            "Adam Bessa",
+            "Tornike Gogrichiani"
+        ]
+    },
+    {
+        "title": "Evil Dead Rise",
+        "rating": 6.6,
+        "votes": "119,052",
+        "director": "Lee Cronin",
+        "actors": [
+            "Mirabai Pease",
+            "Richard Crouchley",
+            "Anna-Maree Thomas",
+            "Lily Sullivan"
+        ]
+    },
+    {
+        "title": "One Piece",
+        "rating": 8.4,
+        "votes": "112,600",
+        "director": "",
+        "actors": "Stars:Iñaki Godoy,Emily Rudd,Mackenyu,Vincent Regan"
+    },
+    {
+        "title": "Shazam! Fury of the Gods",
+        "rating": 6.0,
+        "votes": "110,444",
+        "director": "David F. Sandberg",
+        "actors": [
+            "Zachary Levi",
+            "Asher Angel",
+            "Jack Dylan Grazer",
+            "Rachel Zegler"
+        ]
+    },
+    {
+        "title": " The Last of Us",
+        "rating": 9.1,
+        "votes": "108,916",
+        "director": "Craig Mazin",
+        "actors": [
+            "Pedro Pascal",
+            "Bella Ramsey",
+            "Nico Parker",
+            "John Hannah"
+        ]
+    },
+    {
+        "title": "Beef",
+        "rating": 8.0,
+        "votes": "106,422",
+        "director": "",
+        "actors": "Stars:Steven Yeun,Ali Wong,Joseph Lee,Young Mazino"
+    },
+    {
+        "title": "Scream VI",
+        "rating": 6.5,
+        "votes": "105,051",
+        "director": "Matt Bettinelli-Olpin,Tyler Gillett",
+        "actors": [
+            "Courteney Cox",
+            "Melissa Barrera",
+            "Jenna Ortega",
+            "Jasmin Savoy Brown"
+        ]
+    },
+    {
+        "title": "Knock at the Cabin",
+        "rating": 6.1,
+        "votes": "100,481",
+        "director": "M. Night Shyamalan",
+        "actors": [
+            "Dave Bautista",
+            "Jonathan Groff",
+            "Ben Aldridge",
+            "Nikki Amuka-Bird"
+        ]
+    },
+    {
+        "title": " The Last of Us",
+        "rating": 9.1,
+        "votes": "100,095",
+        "director": "Neil Druckmann",
+        "actors": [
+            "Pedro Pascal",
+            "Bella Ramsey",
+            "Anna Torv",
+            "Christine Hakim"
+        ]
+    },
+    {
+        "title": "Fast X",
+        "rating": 5.8,
+        "votes": "99,219",
+        "director": "Louis Leterrier",
+        "actors": [
+            "Vin Diesel",
+            "Michelle Rodriguez",
+            "Jason Statham",
+            "Jordana Brewster"
+        ]
+    },
+    {
+        "title": "The Night Agent",
+        "rating": 7.5,
+        "votes": "95,675",
+        "director": "",
+        "actors": "Stars:Gabriel Basso,Luciane Buchanan,Fola Evans-Akingbola,Sarah Desjardins"
+    },
+    {
+        "title": "Cocaine Bear",
+        "rating": 5.9,
+        "votes": "94,164",
+        "director": "Elizabeth Banks",
+        "actors": [
+            "Keri Russell",
+            "Alden Ehrenreich",
+            "O'Shea Jackson Jr.",
+            "Ray Liotta"
+        ]
+    },
+    {
+        "title": "Silo",
+        "rating": 8.1,
+        "votes": "91,361",
+        "director": "",
+        "actors": "Stars:Rebecca Ferguson,Common,Tim Robbins,Harriet Walter"
+    },
+    {
+        "title": "The Idol",
+        "rating": 5.5,
+        "votes": "85,023",
+        "director": "",
+        "actors": "Stars:The Weeknd,Lily-Rose Depp,Suzanna Son,Troye Sivan"
+    },
+    {
+        "title": "Elemental",
+        "rating": 7.0,
+        "votes": "84,985",
+        "director": "Peter Sohn",
+        "actors": [
+            "Leah Lewis",
+            "Mamoudou Athie",
+            "Ronnie Del Carmen",
+            "Shila Ommi"
+        ]
+    },
+    {
+        "title": "Creed III",
+        "rating": 6.8,
+        "votes": "84,507",
+        "director": "Michael B. Jordan",
+        "actors": [
+            "Michael B. Jordan",
+            "Tessa Thompson",
+            "Jonathan Majors",
+            "Wood Harris"
+        ]
+    },
+    {
+        "title": "Transformers: Rise of the Beasts",
+        "rating": 6.1,
+        "votes": "84,397",
+        "director": "Steven Caple Jr.",
+        "actors": [
+            "Anthony Ramos",
+            "Dominique Fishback",
+            "Luna Lauren Velez",
+            "Dean Scott Vazquez"
+        ]
+    },
+    {
+        "title": "No Hard Feelings",
+        "rating": 6.4,
+        "votes": "83,291",
+        "director": "Gene Stupnitsky",
+        "actors": [
+            "Jennifer Lawrence",
+            "Andrew Barth Feldman",
+            "Laura Benanti",
+            "Matthew Broderick"
+        ]
+    },
+    {
+        "title": "Queen Cleopatra",
+        "rating": 1.1,
+        "votes": "82,092",
+        "director": "",
+        "actors": "Stars:Jada Pinkett Smith,Adele James,Craig Russell,John Partridge"
+    },
+    {
+        "title": "Asteroid City",
+        "rating": 6.6,
+        "votes": "80,292",
+        "director": "Wes Anderson",
+        "actors": [
+            "Jason Schwartzman",
+            "Scarlett Johansson",
+            "Tom Hanks",
+            "Jeffrey Wright"
+        ]
+    },
+    {
+        "title": "Ahsoka",
+        "rating": 7.7,
+        "votes": "78,123",
+        "director": "",
+        "actors": "Stars:Rosario Dawson,David Tennant,Natasha Liu Bordizzo,Mary Elizabeth Winstead"
+    },
+    {
+        "title": " The Last of Us",
+        "rating": 9.4,
+        "votes": "76,650",
+        "director": "Jeremy Webb",
+        "actors": [
+            "Pedro Pascal",
+            "Bella Ramsey",
+            "Lamar Johnson",
+            "Melanie Lynskey"
+        ]
+    },
+    {
+        "title": "Velma",
+        "rating": 1.6,
+        "votes": "75,122",
+        "director": "",
+        "actors": "Stars:Mindy Kaling,Glenn Howerton,Sam Richardson,Constance Wu"
+    },
+    {
+        "title": "65",
+        "rating": 5.4,
+        "votes": "74,513",
+        "director": "Scott Beck,Bryan Woods",
+        "actors": [
+            "Adam Driver",
+            "Ariana Greenblatt",
+            "Chloe Coleman",
+            "Nika King"
+        ]
+    },
+    {
+        "title": "Renfield",
+        "rating": 6.4,
+        "votes": "74,175",
+        "director": "Chris McKay",
+        "actors": [
+            "Nicholas Hoult",
+            "Nicolas Cage",
+            "Awkwafina",
+            "Ben Schwartz"
+        ]
+    },
+    {
+        "title": "Operation Fortune: Ruse de Guerre",
+        "rating": 6.3,
+        "votes": "73,770",
+        "director": "Guy Ritchie",
+        "actors": [
+            "Jason Statham",
+            "Aubrey Plaza",
+            "Cary Elwes",
+            "Hugh Grant"
+        ]
+    },
+    {
+        "title": "Sound of Freedom",
+        "rating": 7.8,
+        "votes": "72,814",
+        "director": "Alejandro Monteverde",
+        "actors": [
+            "Jim Caviezel",
+            "Mira Sorvino",
+            "Bill Camp",
+            "Cristal Aparicio"
+        ]
+    },
+    {
+        "title": "Sandeep Bhaiya",
+        "rating": 9.2,
+        "votes": "71,278",
+        "director": "",
+        "actors": "Stars:Sunny Hinduja,Deepali Gautam,Punit Tiwari,Abhinav Anand"
+    },
+    {
+        "title": "Tetris",
+        "rating": 7.4,
+        "votes": "71,137",
+        "director": "Jon S. Baird",
+        "actors": [
+            "Taron Egerton",
+            "Mara Huf",
+            "Miles Barrow",
+            "Rick Yune"
+        ]
+    },
+    {
+        "title": "The Pope's Exorcist",
+        "rating": 6.1,
+        "votes": "67,533",
+        "director": "Julius Avery",
+        "actors": [
+            "Russell Crowe",
+            "Daniel Zovatto",
+            "Alexandra Essoe",
+            "Franco Nero"
+        ]
+    },
+    {
+        "title": "Plane",
+        "rating": 6.5,
+        "votes": "67,239",
+        "director": "Jean-François Richet",
+        "actors": [
+            "Gerard Butler",
+            "Mike Colter",
+            "Tony Goldwyn",
+            "Yoson An"
+        ]
+    }
+]
